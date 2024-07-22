@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Image Classification on Jute Pest Dataset**
 
-- 🌱 I’m currently learning **Python, Machine Learning, App Development, Data Science**
+- 🌱 I’m currently learning **Python, Machine Learning, App Development and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dishitatank](https://github.com/dishitatank)
 
