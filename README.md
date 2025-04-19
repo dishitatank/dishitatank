@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishitatank&label=Profile%20views&color=0e75b6&style=flat" alt="dishitatank" /> </p>
 
-- 🔭 I’m currently working on **Image Classification on Jute Pest Dataset**
-
 - 🌱 I’m currently learning **Python, Machine Learning, App Development and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dishitatank](https://github.com/dishitatank)
