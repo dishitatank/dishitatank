@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dishita Tank</h1>
-<h3 align="center">Aspiring Python Developer, Data Scientist and an AI/ML Enthuisiast</h3>
+<h3 align="center">Aspiring Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishitatank&label=Profile%20views&color=0e75b6&style=flat" alt="dishitatank" /> </p>
 
-- 🌱 I’m currently learning **Python, Machine Learning, App Development and Data Science**
+- 🌱 I’m currently learning **Python, Java, Project Managemente**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dishitatank](https://github.com/dishitatank)
 
